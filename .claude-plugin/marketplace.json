@@ -1,0 +1,16 @@
+{
+  "name": "corpusiq-marketplace",
+  "owner": {
+    "name": "CorpusIQ",
+    "email": "media@corpusiq.io",
+    "url": "https://www.corpusiq.io"
+  },
+  "description": "CorpusIQ plugins and MCP servers: business data retrieval with source citations.",
+  "plugins": [
+    {
+      "name": "corpusiq",
+      "source": "./",
+      "description": "Answer business questions from your own accounting, CRM, ecommerce and advertising systems, with every figure cited to its source."
+    }
+  ]
+}

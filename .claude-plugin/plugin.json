@@ -1,0 +1,38 @@
+{
+  "name": "corpusiq",
+  "displayName": "CorpusIQ Business Data",
+  "version": "1.0.0",
+  "description": "Answer business questions from your own accounting, CRM, ecommerce and advertising systems, with every figure cited to its source.",
+  "author": {
+    "name": "CorpusIQ",
+    "email": "media@corpusiq.io",
+    "url": "https://www.corpusiq.io"
+  },
+  "homepage": "https://www.corpusiq.io/mcp",
+  "repository": "https://github.com/CorpusIQ/corpusiq-kiro-power",
+  "license": "MIT",
+  "keywords": [
+    "business data",
+    "business analytics",
+    "financial reporting",
+    "quickbooks",
+    "stripe",
+    "shopify",
+    "hubspot",
+    "google analytics",
+    "search console",
+    "klaviyo",
+    "mailchimp",
+    "crm",
+    "accounting",
+    "ecommerce",
+    "corpusiq",
+    "mcp"
+  ],
+  "mcpServers": {
+    "corpusiq": {
+      "type": "http",
+      "url": "https://mcp2.corpusiq.io/mcp"
+    }
+  }
+}
