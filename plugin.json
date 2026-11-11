@@ -1,0 +1,32 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "corpusiq",
+  "version": "1.0.0",
+  "description": "Answer business questions from your own accounting, CRM, ecommerce and advertising systems, with every figure cited to its source.",
+  "author": {
+    "name": "CorpusIQ",
+    "url": "https://www.corpusiq.io",
+    "email": "media@corpusiq.io"
+  },
+  "homepage": "https://www.corpusiq.io/mcp",
+  "repository": "https://github.com/CorpusIQ/corpusiq-kiro-power",
+  "license": "MIT",
+  "keywords": [
+    "business data",
+    "business analytics",
+    "financial reporting",
+    "quickbooks",
+    "stripe",
+    "shopify",
+    "hubspot",
+    "google analytics",
+    "search console",
+    "klaviyo",
+    "mailchimp",
+    "crm",
+    "accounting",
+    "ecommerce",
+    "corpusiq",
+    "mcp"
+  ]
+}
